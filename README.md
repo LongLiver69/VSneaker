@@ -1,8 +1,4 @@
-#####                      VSneaker_FE                      #####
-
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# VSneaker_FE
 
 ## Setup
 
@@ -46,7 +42,8 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 
 
-#####                      VSneaker_BE                      #####
+
+# VSneaker_BE
 
 ## Setup
 
