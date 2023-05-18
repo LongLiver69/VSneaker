@@ -1,3 +1,13 @@
+# Database
+
+## Config
+
+Change configuration in 'VSneaker_BE/routes/.env
+
+## Import data
+
+Import file 'vseaker.sql' into mysql
+
 # VSneaker_FE
 
 ## Setup
